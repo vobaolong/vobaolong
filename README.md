@@ -5,8 +5,7 @@ I'm Front-end Developer
 -------------------
 
 * 🌍  I'm based in Viet Nam
-* ✉️  You can contact me at [baolong01.dev@gmail.com](mailto:baolong01.dev@gmail.com)
-* 🧠  I'm learning Nestjs
+* ✉️  You can contact me at [works.vobaolong@gmail.com](mailto:works.vobaolong@gmail.com)
 
 <a href="https://www.github.com/vobaolong" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vobaolong?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
