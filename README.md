@@ -4,7 +4,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 I'm Front-end Developer
 -------------------
 
-* 🌍  I'm based in Viet Nam
+* 🌍  I'm from Viet Nam
 * ✉️  You can contact me at [works.vobaolong@gmail.com](mailto:works.vobaolong@gmail.com)
 
 <a href="https://www.github.com/vobaolong" target="_blank" rel="noreferrer"><img
